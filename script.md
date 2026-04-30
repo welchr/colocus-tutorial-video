@@ -28,3 +28,18 @@ The current reference variant for LD is for the upstream signal. We can toggle t
 
 We can also add a panel of genes by clicking on any of the cells in the grid, and then clicking "Add gene panel."
 
+Additional features of the MultiZoom page can be found described in the help page.
+
+...
+
+The gene page shows colocalizations for a particular gene of interest in greater detail.
+
+The first table summarizes all gee-wos signals that co-localize with the gene of interest, but also any other gene that co-localizes with those gee-wos signals in the same tissue. This can help to understand if the co-localizations for your gene are unique, or if there are many other genes co-localizing to the same gee-wos signals.
+
+The second table expands on the first table to allow gee-wos signals in other tissues beyond just the tissue in which the gene colocalization occurred. The table includes additional columns to show the eQTL signal in the additional tissues.
+
+...
+
+The QC statistics page shows a number of plots to help assess the quality of colocalizations for each molecular Q-T-L study. The settings panel has a dropdown box to select the study, along with filters on co-localization probability and r-squared.
+
+The first plot is particularly important. It shows the number of instances in which a gee-wos signal co-localizes with multiple Q-T-L signals, or vice versa. This can hint at poor separation during fine-mapping. If the counts are high for either scenario, it can suggest an overall issue with the fine-mapping done before co-localizing.
