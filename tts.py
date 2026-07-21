@@ -321,7 +321,7 @@ def main():
     
     # Configuration - modify these for your use case
     voice_id = "Ashley"
-    model_id = "inworld-tts-1.5-mini"
+    model_id = "inworld-tts-2"
     output_file = "output.mp3"
     
     script_dir = Path(__file__).parent
