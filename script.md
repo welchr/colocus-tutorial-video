@@ -2,7 +2,9 @@ Welcome to our browser "Co-locus". Co-locus was created to facilitate cross-stud
 
 We also aim to allow assessment of the specificity and quality of gene by GWAS co-localizations through display of all colocalized genes for a given GWAS signal, and display of genes with greater than 1 colocalization with local GWAS signals.
 
-In this video we will show a demonstration of our software using a public instance of Co-locus with co-localization results from cardiometabolic GWAS and E-Q-T-L studies. Note that you can also run an instance of Co-locus with your own fine-mapped signals and co-localization results.
+In this video we will show a demonstration of our software using a public instance of Co-locus with co-localization results from cardiometabolic GWAS and E-Q-T-L studies.
+
+Note that you can also run an instance of Co-locus with your own fine-mapped signals and co-localization results.
 
 ...
 
