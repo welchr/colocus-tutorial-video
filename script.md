@@ -14,7 +14,7 @@ On the search page, we see an interactive table of co-localization results, one 
 
 Columns can be sorted by clicking the column name in the header of the table. For example, here we'll sort on variant 1.
 
-On the left side of the page is a filter panel. The filters limit what is displayed in the results table. If a filter pertains to a property of one of the two signals, such as tissue type, the filter will be applied to columns ending in both "one" and "two". For example, setting the "tissue" filter to "adipose" will only show co-localization results where one of the two signals matches "adipose". We can also show only results for a particular E-Q-T-L gene, for example here we will use "E-Y-A-2".
+On the left side of the page is a filter panel. The filters limit what is displayed in the results table. If a filter pertains to a property of one of the two signals, such as tissue type, the filter will be applied to columns ending in both "one" and "two". For example, setting the "tissue" filter to "adipose" will only show co-localization results where one of the two signals matches "adipose", and setting the "study" filter to "Adipo-Express" only shows co-localizations where one of the signals comes from the "Adipo-Express" study. We can also show only results for a particular E-Q-T-L gene, for example here we will use "E-Y-A-2".
 
 By default, only co-localizations are shown in the table. However, in the database, we also store all possible fine-mapped signals, even those that do not co-localize. To enable showing these signals, scroll down to the bottom of the filter panel, and enable "Show single signals". Once enabled, you will see rows containing single signals appear in the table. 
 
