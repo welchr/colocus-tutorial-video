@@ -8,7 +8,7 @@ Note that you can also run an instance of Co-locus with your own fine-mapped sig
 
 ...
 
-The home page shows an overview figure of "Co-locus". Below the figure is a list of our goals in creating the software, a description of each of the pages, our funding sources, open source repository, and a feedback link. At the top of the page, there is a menu bar for navigating to other pages. We recommend starting at the search page, and proceeding from there.
+The home page shows an overview figure of "Co-locus" describing the input data along with the available pages and their functions. <break time="1000ms" /> Below the figure is a list of our goals in creating the software, a description of each of the pages, our funding sources, open source repository, and a feedback link. At the top of the page, there is a menu bar for navigating to other pages. We recommend starting at the search page, and proceeding from there.
 
 ...
 
